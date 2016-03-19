@@ -4,7 +4,6 @@
     <modules>
       <module fileurl="file://$PROJECT_DIR$/alg/alg.iml" filepath="$PROJECT_DIR$/alg/alg.iml" />
       <module fileurl="file://$PROJECT_DIR$/javalg.iml" filepath="$PROJECT_DIR$/javalg.iml" />
-      <module fileurl="file://$PROJECT_DIR$/sort/sort.iml" filepath="$PROJECT_DIR$/sort/sort.iml" />
     </modules>
   </component>
 </project>
