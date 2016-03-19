@@ -1,4 +1,6 @@
 package adt;
+import edu.princeton.cs.algs4.StdIn;
+import edu.princeton.cs.algs4.StdOut;
 
 /**
  * Created by aristark on 3/19/16.
@@ -9,18 +11,22 @@ public class Counter {
     private final String name;
     private int count;
 
+    /* create a counter named id */
     public Counter(String id){
         name = id;
     }
 
+    /* increment the counter */
     public void increment(){
         count++;
     }
 
+    /* number of increments since creation */
     public int tally(){
         return count;
     }
 
+    /* string representation */
     public String toString(){
         return name+" "+count;
     }
@@ -34,6 +40,8 @@ public class Counter {
           heads.increment();
           heads.increment();
           tails.increment();
-          System.out.println("heads: "+heads+" tails: "+tails);
+//          System.out.println("heads: "+heads+" tails: "+tails);
+          StdOut.println("heads: "+heads+" tails: "+tails);
+
       }
 }
