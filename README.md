@@ -6,6 +6,7 @@
 1.List----双链表<br>
 2.Stack-----栈<br>
 3.Queue----队列<br>
+4.SimpleHashMap----简单哈西实现(基于JDK Map类)
 ###search----查找算法
 1.BinarySearch----二分查找<br>
 ###sort---排序算法
@@ -18,3 +19,4 @@
 2.CountingGenerator----简单的生成器实现<br>
 3.RandomGenerator----随机生成器<br>
 3.CollectionData----利用生成器生成集合数据<br>
+4.MapEntry----实现JDK接口Map.Entry
