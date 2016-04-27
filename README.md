@@ -19,4 +19,11 @@
 2.CountingGenerator----简单的生成器实现<br>
 3.RandomGenerator----随机生成器<br>
 3.CollectionData----利用生成器生成集合数据<br>
-4.MapEntry----实现JDK接口Map.Entry
+4.MapEntry----实现JDK接口Map.Entry<br>
+5.DirList---生成符合相关条件的目录名列表<br>
+6.Directory----遍历目录<br>
+7.PPrint---将List友好的打印出来(StringBuidler)<br>
+8.ProcessFile---策略模式:寻找特定后缀(ext)的文件<br>
+###os---有关操作系统原来的算法(仅作表达思想之用)
+1.PetersonSolution.c----进程互斥的Peterson解法<br>
+2.ProducerConsumer.c---解决了Peterson算法(和TSL)的忙等待问题<br>
