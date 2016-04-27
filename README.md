@@ -24,6 +24,6 @@
 6.Directory----遍历目录<br>
 7.PPrint---将List友好的打印出来(StringBuidler)<br>
 8.ProcessFile---策略模式:寻找特定后缀(ext)的文件<br>
-###os---有关操作系统原来的算法(仅作表达思想之用)
+###os---有关操作系统原理的算法(仅作表达思想之用)
 1.PetersonSolution.c----进程互斥的Peterson解法<br>
 2.ProducerConsumer.c---解决了Peterson算法(和TSL)的忙等待问题<br>
